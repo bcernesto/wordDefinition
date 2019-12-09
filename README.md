@@ -20,4 +20,4 @@ A NVDA addon for get definitions from a selected word.
 * It works with https://googledictionaryapi.eu-gb.mybluemix.net/ api
 * This command can be modified in the "Input gestures" dialog in the "Text editing" section.
 
-[1]:https://github.com/bcernesto/wordDefinition
+[1]:https://github.com/bcernesto/wordDefinition/raw/master/wordDefinition.nvda-addon
